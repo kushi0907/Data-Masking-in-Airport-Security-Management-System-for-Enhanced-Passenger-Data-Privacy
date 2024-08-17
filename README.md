@@ -20,6 +20,7 @@ The system is designed to comply with data protection laws such as the General D
 
 Data Minimization: Collecting only the necessary information required for security screening, reducing the amount of data exposed during the process.
 Audit and Monitoring: All access to passenger data is logged and monitored to detect any unauthorized access attempts, providing an additional layer of security and accountability.
+
 4. Risk Reduction:
 By masking sensitive data, the system mitigates risks associated with data breaches, insider threats, and unauthorized access. Even if a hacker or malicious insider gains access to the system, the actual sensitive data remains protected behind masking or encryption layers. This is particularly important in high-traffic environments like airports, where multiple systems and personnel interact with sensitive passenger information.
 
